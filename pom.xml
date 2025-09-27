@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-	<finalnam>web-test-docker</finalnam>
+	<finalname>web-test-docker</finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
