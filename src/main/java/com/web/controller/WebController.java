@@ -8,7 +8,7 @@ public class WebController {
 
 	@RequestMapping("/test")
 	public String test() {
-		return "Hello World";
+		return "Hello VIP KING";
 	}
 	
 }
